@@ -1,0 +1,9 @@
+﻿  Main.c
+C:\Users\HP\source\repos\BasicKeylogger\BasicKeylogger\Main.c(23): warning C4409:  illegal instruction size
+C:\Users\HP\source\repos\BasicKeylogger\BasicKeylogger\Main.c(39,19): warning C4477:  'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+  Generating code
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BasicKeylogger.vcxproj -> C:\Users\HP\source\repos\BasicKeylogger\Release\BasicKeylogger.exe
